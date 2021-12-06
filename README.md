@@ -1,6 +1,6 @@
 # YT-Discord-bot-tutorial
 
-คลิปอธิบายและสอนทำ :
+คลิปอธิบายและสอนทำ : https://youtu.be/4cnUe3ZzicM
 
 อย่าลืมกดซับยูทูปผมด้วย !!! : https://www.youtube.com/channel/UCGNe0bKHgqHd4aiH2yPKIHA
 
